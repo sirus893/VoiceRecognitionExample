@@ -1,0 +1,7 @@
+\\Prashan-pc\d\Projects\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe.config
+\\Prashan-pc\d\Projects\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe
+\\Prashan-pc\d\Projects\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.pdb
+\\Prashan-pc\d\Projects\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csprojAssemblyReference.cache
+\\Prashan-pc\d\Projects\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.CoreCompileInputs.cache
+\\Prashan-pc\d\Projects\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.exe
+\\Prashan-pc\d\Projects\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.pdb
